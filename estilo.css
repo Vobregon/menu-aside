@@ -30,3 +30,8 @@ body{
 .aside-nav a:hover{
     color: #fff;
 }
+p{
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+}
